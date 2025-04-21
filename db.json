@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "position": "fulstack",
+      "company": "udemig",
+      "location": "siirt",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "interview_date": "",
+      "id": "l80-P-G"
+    },
+    {
+      "position": "fulstack",
+      "company": "udemig",
+      "location": "as",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "rejection_date": "",
+      "id": "tvng-Ef"
+    },
+    {
+      "position": "backend",
+      "company": "MMY",
+      "location": "siirt",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "interview_date": "2025-10-22T04:02",
+      "id": "HxCpkxT"
+    }
+  ]
+}
